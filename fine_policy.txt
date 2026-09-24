@@ -1,2 +1,3 @@
 Library fine policy:
 Late return of books may result in a daily fine.
+Fine policy is reviewed periodically.
