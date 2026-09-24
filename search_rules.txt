@@ -1,0 +1,3 @@
+Search books by title or author.
+Title search should match the book title.
+Author search should match the author's name.
