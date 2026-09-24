@@ -1,2 +1,3 @@
 Monthly Library Issue Report
 Books issued this month: 25
+Most issued genre: Fiction
